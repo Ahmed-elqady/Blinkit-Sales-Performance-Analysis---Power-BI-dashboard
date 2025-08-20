@@ -1,0 +1,2 @@
+# Blinkit-Sales-Performance-Analysis---Power-BI-dashboard
+An interactive Power BI dashboard to analyze Blinkit’s sales performance, customer satisfaction, and inventory distribution. to help stakeholders quickly identify which product attributes (e.g., fat content and item type) and outlet characteristics (e.g., establishment year/type) drive sales and ratings, and where to optimize stock allocation.
